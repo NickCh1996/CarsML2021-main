@@ -39,7 +39,7 @@ You can also run it for yourself here : [Final Release](https://github.com/McFat
 or here if you want to just drive it yourselft [Testing Builds](https://github.com/McFatcat/CarsML2021-main/releases/tag/DataCollection)
 ## Authors
 
-- [@NickCh](https://www.github.com/nickch1996)
+- [@NickCh](https://www.github.com/NickChalvatzakis)
 - [@McFatcat](https://www.github.com/McFatcat)
 
   
